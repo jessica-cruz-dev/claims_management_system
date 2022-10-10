@@ -1,0 +1,10 @@
+C:\Users\jesscruz\Documents\repos\cms_final\ClaimsMS\ClaimsMS.UseCases\bin\Debug\netcoreapp3.1\ClaimsMS.UseCases.deps.json
+C:\Users\jesscruz\Documents\repos\cms_final\ClaimsMS\ClaimsMS.UseCases\bin\Debug\netcoreapp3.1\ClaimsMS.UseCases.dll
+C:\Users\jesscruz\Documents\repos\cms_final\ClaimsMS\ClaimsMS.UseCases\bin\Debug\netcoreapp3.1\ClaimsMS.UseCases.pdb
+C:\Users\jesscruz\Documents\repos\cms_final\ClaimsMS\ClaimsMS.UseCases\obj\Debug\netcoreapp3.1\ClaimsMS.UseCases.csproj.AssemblyReference.cache
+C:\Users\jesscruz\Documents\repos\cms_final\ClaimsMS\ClaimsMS.UseCases\obj\Debug\netcoreapp3.1\ClaimsMS.UseCases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jesscruz\Documents\repos\cms_final\ClaimsMS\ClaimsMS.UseCases\obj\Debug\netcoreapp3.1\ClaimsMS.UseCases.AssemblyInfoInputs.cache
+C:\Users\jesscruz\Documents\repos\cms_final\ClaimsMS\ClaimsMS.UseCases\obj\Debug\netcoreapp3.1\ClaimsMS.UseCases.AssemblyInfo.cs
+C:\Users\jesscruz\Documents\repos\cms_final\ClaimsMS\ClaimsMS.UseCases\obj\Debug\netcoreapp3.1\ClaimsMS.UseCases.csproj.CoreCompileInputs.cache
+C:\Users\jesscruz\Documents\repos\cms_final\ClaimsMS\ClaimsMS.UseCases\obj\Debug\netcoreapp3.1\ClaimsMS.UseCases.dll
+C:\Users\jesscruz\Documents\repos\cms_final\ClaimsMS\ClaimsMS.UseCases\obj\Debug\netcoreapp3.1\ClaimsMS.UseCases.pdb
