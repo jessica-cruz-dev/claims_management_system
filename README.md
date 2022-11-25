@@ -18,6 +18,6 @@ in a hospital setting.
 
 
 Future goals for expansion:
--Converting claims into unique visit
--Identifying incomplete claims data
--Categorizing providers and locations of service
+- Converting claims into unique visit
+- Identifying incomplete claims data
+- Categorizing providers and locations of service
