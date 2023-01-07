@@ -11,7 +11,7 @@ Health care is a data-intense industry (https://www.ruralcenter.org/)
 Centers for Medicare and Medicaid Services (CMS) data include information at the patient encounter level
 regarding diagnoses, treatments, and billed and paid amounts.
 
-One challenge related to using claims is assessing data quality and accounting for incomplete or missing data.
+One challenge related to using claims data is assessing data quality and accounting for incomplete or missing data.
 
 I'm creating a mock claims data management application to represent how claims data is imputed, processed, and reported on
 in a hospital setting. 
